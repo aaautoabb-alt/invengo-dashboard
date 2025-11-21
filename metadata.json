@@ -1,0 +1,5 @@
+{
+  "name": "InvenGo Dashboard",
+  "description": "An inventory management web application for various industrial areas like Pulp 2, NPP11, and E/WTP.",
+  "requestFramePermissions": []
+}
